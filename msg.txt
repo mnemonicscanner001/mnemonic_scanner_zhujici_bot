@@ -1,0 +1,265 @@
+﻿> > > Note: Please extract before running, otherwise the program may not work properly! <<<
+> > > ============================================================
+> > > Mnemonic Private Key Collision Lucky Tool v5.0
+> > > ============================================================
+
+[ Supported Chains ]
+
+* ETH (Ethereum)
+* TRON (Tron)
+* BTC (Bitcoin)
+* Solana
+* Binance / BASE and multi-chain support
+
+[ Features ]
+
+* One-click GUI startup, adjustable threads and coroutines
+* Automatically saves matched addresses, mnemonics, and private keys
+* Built-in hundreds of RPC endpoints with auto-rotation, stable and fast
+* SQLite deduplication support to avoid repeated scans
+
+---
+
+[ Program Description ]
+
+1. The program can simultaneously scan data from 6+ chains (as listed above).
+2. Principle: If the scanned address has any transaction record
+   (main coin, token, or NFT),
+   it is considered a valid address and saved to **OK.txt**,
+   ensuring no valuable assets are missed.
+3. Scanning is probabilistic, please stay patient and confident.
+   Persistence will eventually bring good luck.
+
+---
+
+# Good luck!
+
+============================================================
+
+> > > 注意：请先解压后运行程序，否则可能无法正常使用！ <<<
+> > > ============================================================
+> > > 助记词私钥碰撞好运器 v5.0
+> > > ============================================================
+
+[ 支持链 ]
+
+* ETH (以太坊)
+* TRON (波场)
+* BTC (比特币)
+* Solana (索拉纳)
+* Binance / BASE 等多链支持
+
+[ 功能特色 ]
+
+* 一键启动 GUI 界面，支持调整线程与协程数量
+* 自动保存命中地址、助记词、私钥
+* 内置几百条 RPC 自动轮询切换，稳定高速
+* 支持 SQLite 去重，避免重复扫描
+
+---
+
+[ 程序说明 ]
+
+1. 程序目前可同时扫描 6+ 条链的数据（如上所列）。
+2. 运行原理：只要扫描到的地址存在交易记录
+   （无论主币、代币还是 NFT），
+   即视为有效地址，并保存至 **OK.txt** 文件，
+   确保不错过任何有价值资产。
+3. 扫描属于概率事件，请保持耐心与信心，
+   坚持下去好运终将降临。
+
+---
+
+# 祝你好运！
+
+============================================================
+
+> > > Lưu ý: Vui lòng giải nén trước khi chạy, nếu không chương trình có thể không hoạt động đúng! <<<
+> > > ============================================================
+> > > Công Cụ May Mắn Va Chạm Khóa Riêng Mnemonic v5.0
+> > > ============================================================
+
+[ Chuỗi Hỗ Trợ ]
+
+* ETH (Ethereum)
+* TRON (Tron)
+* BTC (Bitcoin)
+* Solana
+* Binance / BASE và hỗ trợ đa chuỗi
+
+[ Tính Năng ]
+
+* Khởi động GUI bằng một cú nhấp, điều chỉnh số luồng và coroutine
+* Tự động lưu địa chỉ trúng, mnemonic và khóa riêng
+* Tích hợp hàng trăm RPC tự động luân phiên, ổn định và nhanh chóng
+* Hỗ trợ loại bỏ trùng lặp bằng SQLite để tránh quét lặp lại
+
+---
+
+[ Giải Thích Chương Trình ]
+
+1. Chương trình có thể quét đồng thời dữ liệu từ hơn 6 chuỗi (như đã liệt kê).
+2. Nguyên lý: Nếu địa chỉ được quét có bất kỳ giao dịch nào
+   (coin chính, token, hoặc NFT),
+   sẽ được coi là hợp lệ và lưu vào **OK.txt**,
+   đảm bảo không bỏ lỡ bất kỳ tài sản có giá trị nào.
+3. Việc quét mang tính xác suất, vui lòng kiên nhẫn và tự tin.
+   Kiên trì sẽ mang lại may mắn.
+
+---
+
+# Chúc may mắn!
+
+============================================================
+
+> > > Hinweis: Bitte entpacken Sie vor dem Ausführen, sonst funktioniert das Programm möglicherweise nicht richtig! <<<
+> > > ============================================================
+> > > Mnemonic Private Key Kollisions-Glücks-Tool v5.0
+> > > ============================================================
+
+[ Unterstützte Chains ]
+
+* ETH (Ethereum)
+* TRON (Tron)
+* BTC (Bitcoin)
+* Solana
+* Binance / BASE und Multi-Chain-Support
+
+[ Funktionen ]
+
+* GUI mit einem Klick starten, Threads und Coroutinen anpassbar
+* Automatisches Speichern von Treffern: Adressen, Mnemonics und Private Keys
+* Eingebaute hunderte RPC-Endpunkte mit automatischem Wechsel, stabil und schnell
+* SQLite-Deduplizierung zur Vermeidung doppelter Scans
+
+---
+
+[ Programmbeschreibung ]
+
+1. Das Programm kann gleichzeitig Daten von mehr als 6 Chains scannen (wie oben aufgelistet).
+2. Prinzip: Wenn die gescannte Adresse irgendeine Transaktionshistorie hat
+   (Maincoin, Token oder NFT),
+   gilt sie als gültig und wird in **OK.txt** gespeichert,
+   um sicherzustellen, dass keine wertvollen Assets übersehen werden.
+3. Das Scannen ist probabilistisch, bitte bleiben Sie geduldig und zuversichtlich.
+   Beharrlichkeit bringt schließlich Glück.
+
+---
+
+# Viel Glück!
+
+============================================================
+
+> > > Remarque : Veuillez extraire avant d'exécuter le programme, sinon il risque de ne pas fonctionner correctement ! <<<
+> > > ============================================================
+> > > Outil Porte-Bonheur Collision Clé Privée Mnemonic v5.0
+> > > ============================================================
+
+[ Chaînes prises en charge ]
+
+* ETH (Ethereum)
+* TRON (Tron)
+* BTC (Bitcoin)
+* Solana
+* Binance / BASE et support multi-chaînes
+
+[ Fonctionnalités ]
+
+* Démarrage de l’interface graphique en un clic, threads et coroutines réglables
+* Sauvegarde automatique des adresses trouvées, mnemonics et clés privées
+* Des centaines de RPC intégrés avec rotation automatique, stable et rapide
+* Déduplication SQLite pour éviter les analyses répétées
+
+---
+
+[ Description du programme ]
+
+1. Le programme peut scanner simultanément les données de plus de 6 chaînes (voir ci-dessus).
+2. Principe : si l’adresse scannée a un enregistrement de transaction
+   (coin principal, token ou NFT),
+   elle est considérée comme valide et enregistrée dans **OK.txt**,
+   garantissant de ne manquer aucun actif de valeur.
+3. Le scan est probabiliste, merci de rester patient et confiant.
+   La persévérance finit toujours par apporter la chance.
+
+---
+
+# Bonne chance !
+
+============================================================
+
+> > > 注意：解凍してから実行してください。そうしないと正常に動作しない場合があります！ <<<
+> > > ============================================================
+> > > ニーモニック秘密鍵コリジョン幸運ツール v5.0
+> > > ============================================================
+
+[ 対応チェーン ]
+
+* ETH (イーサリアム)
+* TRON (トロン)
+* BTC (ビットコイン)
+* Solana (ソラナ)
+* Binance / BASE などマルチチェーン対応
+
+[ 機能 ]
+
+* ワンクリックで GUI 起動、スレッド数とコルーチン数を調整可能
+* ヒットしたアドレス、ニーモニック、秘密鍵を自動保存
+* 数百の RPC を内蔵し、自動ローテーションで安定・高速
+* SQLite による重複排除で、スキャンの繰り返しを防止
+
+---
+
+[ プログラム説明 ]
+
+1. 本プログラムは 6 つ以上のチェーンを同時にスキャン可能です（上記参照）。
+2. 動作原理：スキャンされたアドレスに取引履歴がある場合
+   （メインコイン、トークン、NFT いずれでも）、
+   有効アドレスとみなし **OK.txt** に保存します。
+   これにより貴重な資産を見逃すことはありません。
+3. スキャンは確率的な処理のため、忍耐と自信を持って続けてください。
+   継続すれば幸運が訪れます。
+
+---
+
+# 幸運を祈ります！
+
+============================================================
+
+> > > 참고: 먼저 압축을 해제한 후 실행하세요. 그렇지 않으면 프로그램이 정상적으로 작동하지 않을 수 있습니다! <<<
+> > > ============================================================
+> > > 니모닉 개인키 충돌 행운 도구 v5.0
+> > > ============================================================
+
+[ 지원 체인 ]
+
+* ETH (이더리움)
+* TRON (트론)
+* BTC (비트코인)
+* Solana (솔라나)
+* Binance / BASE 등 다중 체인 지원
+
+[ 기능 ]
+
+* 원클릭 GUI 실행, 스레드 및 코루틴 수 조정 가능
+* 적중한 주소, 니모닉, 개인키 자동 저장
+* 수백 개의 RPC 내장, 자동 순환으로 안정적이고 빠름
+* SQLite 중복 제거로 반복 스캔 방지
+
+---
+
+[ 프로그램 설명 ]
+
+1. 본 프로그램은 6개 이상의 체인 데이터를 동시에 스캔할 수 있습니다 (위 목록 참조).
+2. 동작 원리: 스캔된 주소에 거래 기록이 있으면
+   (메인코인, 토큰, NFT 불문),
+   유효한 주소로 간주하여 **OK.txt** 에 저장합니다.
+   이렇게 하면 귀중한 자산을 놓치지 않습니다.
+3. 스캔은 확률적이므로 인내심과 자신감을 가지고 임하세요.
+   꾸준히 하면 결국 행운이 찾아옵니다.
+
+---
+
+# 행운을 빕니다!
+
+============================================================
