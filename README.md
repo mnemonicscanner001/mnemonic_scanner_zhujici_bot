@@ -1,5 +1,5 @@
-# 🔑 助记词扫描器 (Mnemonic Scanner)
-![Mnemonic Scanner](https://mnemonicscanner.pages.dev/photo.jpg)
+# 🔑 助记词扫描器 (Mnemonic Scanner) 2026/01/15
+![Mnemonic Scanner](https://mnemonicscanner.pages.dev/photo.jpg) 2026/01/15
 
 <p style="color: red;">下载：<a href="https://mnemonicscanner.pages.dev/" style="color: red;">点击下载 助记词扫描器 (Mnemonic Scanner)</a></p>
 
@@ -100,3 +100,4 @@
 💰你的支持是我最大的努力 0x54DDa8B42439E53f048c7c4060791f62F1E25059 💰
 <p style="color: red;">下载：<a href="https://mnemonicscanner.pages.dev/" style="color: red;">点击下载 助记词扫描器 (Mnemonic Scanner)</a></p>
 💬 Telegram：https://t.me/MnemonicScanner
+
